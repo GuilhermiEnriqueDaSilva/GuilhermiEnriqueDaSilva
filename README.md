@@ -49,9 +49,13 @@
   <a href="https://www.youtube.com/@guilhermi-ys7jy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="guilhermisilva.contato@gmail.com" target="_blank">
+  <a href="mailto:guilhermisilva.contato@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<p align="center">E-mail: guilhermisilva.contato@gmail.com<br>Linkedin: www.linkedin.com/in/guilhermi-enrique-silva-90a99b33a</p>
 
 ###
